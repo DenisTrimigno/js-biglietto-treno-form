@@ -5,14 +5,19 @@
 }
 
 body {
-    background-color: blueviolet;
+    background-color: rgb(10, 105, 101);
 
 }
 
-#ticket {
-    background-color: rgb(202, 45, 45) ;
+#tiket {
+    background-color: rgb(70, 64, 173) ;
     margin: 150px auto;
     padding: 10px;
     max-width: 1140px;
     
+}
+
+.show-error {
+    color: violet;
+    font-weight: 600;
 }
